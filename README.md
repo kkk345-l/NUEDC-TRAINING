@@ -1,1 +1,1 @@
-# NVEDC-TRAINING
+#备赛规划
